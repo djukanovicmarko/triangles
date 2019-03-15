@@ -1,0 +1,8 @@
+C:\Users\Marko\Desktop\Domaci C#\Domaci2\Domaci2\bin\Debug\Domaci2.exe
+C:\Users\Marko\Desktop\Domaci C#\Domaci2\Domaci2\bin\Debug\Domaci2.pdb
+C:\Users\Marko\Desktop\Domaci C#\Domaci2\Domaci2\obj\x86\Debug\Domaci2.Form1.resources
+C:\Users\Marko\Desktop\Domaci C#\Domaci2\Domaci2\obj\x86\Debug\Domaci2.Properties.Resources.resources
+C:\Users\Marko\Desktop\Domaci C#\Domaci2\Domaci2\obj\x86\Debug\Domaci2.csproj.GenerateResource.Cache
+C:\Users\Marko\Desktop\Domaci C#\Domaci2\Domaci2\obj\x86\Debug\Domaci2.exe
+C:\Users\Marko\Desktop\Domaci C#\Domaci2\Domaci2\obj\x86\Debug\Domaci2.pdb
+C:\Users\Marko\Desktop\Domaci C#\Domaci2\Domaci2\obj\x86\Debug\Domaci2.csprojResolveAssemblyReference.cache
